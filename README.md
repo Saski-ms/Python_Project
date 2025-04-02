@@ -4,9 +4,9 @@ The Virtual Pen is a computer vision-based project that enables users to draw on
 
 🎯 Features
 
-Hand gesture recognition for drawing and erasing.
+* Hand gesture recognition for drawing and erasing.
 
-Supports different colors and brush sizes.
+* Supports different colors and brush sizes.
 
 Real-time tracking with OpenCV and MediaPipe.
 
