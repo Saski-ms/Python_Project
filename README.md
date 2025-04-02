@@ -4,31 +4,21 @@ The Virtual Pen is a computer vision-based project that enables users to draw on
 
 🎯 Features
 
-*Hand gesture recognition for drawing and erasing.
-
-*Supports different colors and brush sizes.
-
-*Real-time tracking with OpenCV and MediaPipe.
-
-*Smooth drawing experience using contour detection.
+1.Hand gesture recognition for drawing and erasing.
+2.Supports different colors and brush sizes.
+3.Real-time tracking with OpenCV and MediaPipe.
+4.Smooth drawing experience using contour detection.
 
 🛠️ Technologies Used
 
-Python
-
-OpenCV
-
-MediaPipe
-
-NumPy
-
+1.Python
+2.OpenCV
+3.MediaPipe
+4.NumPy
 
 🎨 How It Works
 
-The camera detects the user's hand using MediaPipe Hands.
-
-The index finger is used to draw on the screen.
-
-The thumb and index finger pinch together to erase.
-
-The system keeps track of past strokes for a seamless experience.
+1.The camera detects the user's hand using MediaPipe Hands.
+2.The index finger is used to draw on the screen.
+3.The thumb and index finger pinch together to erase.
+4.The system keeps track of past strokes for a seamless experience.
